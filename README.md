@@ -8,7 +8,7 @@ The first intended use was to monitor furnances in a materials science laborator
 
 The fastest way to get started is to run the Particle app on your phone to claim the Photon, then flash the example app through the Web IDE. Detailed step-by-step instructions are located [**here**](https://www.reclaimerlabs.com/blog/2016/12/29/wifi-thermocouple-monitor). The example app updates the temperature to the SparkFun Data stream and the Particle cloud once every five minutes or so. 
 
-You can find the firmware libraries on github for the (**ADS1118**)[https://github.com/ReclaimerLabs/ReclaimerLabs_ADS1118] and for (**thermocouples**)[https://github.com/ReclaimerLabs/ReclaimerLabs_Thermocouple]. 
+You can find the firmware libraries on github for the [**ADS1118**](https://github.com/ReclaimerLabs/ReclaimerLabs_ADS1118) and for [**thermocouples**](https://github.com/ReclaimerLabs/ReclaimerLabs_Thermocouple). 
 
 # Questions and Comments
 
